@@ -25,5 +25,5 @@
           python
           random_password_generator.py
     ## Author
-    # Taranum Ashfaq
+    - Taranum Ashfaq
   
